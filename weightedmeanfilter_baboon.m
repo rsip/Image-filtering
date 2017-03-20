@@ -1,3 +1,5 @@
+% NAME - ZOHA HAMID
+% PROBABILITY AND STATISTICS ASSIGNMENT - 1
 clc;
 clear all;
 close all;
